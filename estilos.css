@@ -1,0 +1,12 @@
+h1{
+    color: rgb(104, 98, 98);
+}
+p{
+    font-size: 200%;
+    color: rgb(226, 13, 13);
+}
+body{
+    background-color: bisque;
+    background-image: url("img1.png");
+    background-size: 75%;
+}
